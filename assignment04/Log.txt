@@ -3,14 +3,16 @@
 	- Referred to code in Codepath Page: Symmetric Key Algorithms
 - Objective 2 (COMPLETED; 10min)
 - Objective 3 (COMPLETED; 30min)
+	- Referred to code in Codepath Page: Public Key Cryptography
 
-2017.03.07
+2017.03.07 (1hr 20min)
 - Objective 4 (COMPLETED; 20min)
+	- Referred to code in Codepath Page: Public Key Cryptography
 - Objective 5 (COMPLETED; 30min)
+	- Referred to code in Codepath Page: Public Key Cryptography
 - Objective 6 (COMPLETED; 30min)
 
-2017.02.08
+2017.02.08 (1hr 45min)
 - Objective 7 (COMPLETED; 45min)
 - Objective 8 (COMPLETED; 15min)
-
-
+- Objective 9 (COMPLETED; 45min)
