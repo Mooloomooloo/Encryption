@@ -1,0 +1,16 @@
+2017.03.03 (1hr)
+- Objective 1 (COMPLETED; 20min)
+	- Referred to code in Codepath Page: Symmetric Key Algorithms
+- Objective 2 (COMPLETED; 10min)
+- Objective 3 (COMPLETED; 30min)
+
+2017.03.07
+- Objective 4 (COMPLETED; 20min)
+- Objective 5 (COMPLETED; 30min)
+- Objective 6 (COMPLETED; 30min)
+
+2017.02.08
+- Objective 7 (COMPLETED; 45min)
+- Objective 8 (COMPLETED; 15min)
+
+
